@@ -30,6 +30,17 @@ git push -u origin main
 - Add verified publications, your CV PDF, and other academic links when ready.
 - Contact address currently shown: `mujahid.swadhin@gmail.com` (from the connected GitHub account).
 
-## Content note
+## Content sources
 
-The supplied Notion page could not be fetched through the available access methods. The site was drafted from your previously shared professional background and accessible GitHub repositories. Verify details before publishing. Publication titles and acceptances have deliberately not been invented.
+The detailed portfolio update uses:
+
+- [Google Scholar](https://scholar.google.com/citations?user=t8Xy_fAAAAAJ&hl=en) for publication metadata.
+- Linked arXiv papers and conference records for research summaries and publication status.
+- The official ICPC 2021 World Finals brochure for AIUB_Captured's team roster.
+- The Codeforces profile for the peak rating of 1927.
+- AIUB's Intra AIUB Programming Contest 2024 report for coaching and contest-hosting involvement.
+- The author's LinkedIn profile and award announcement for the continental-finals result and leadership award.
+
+The supplied public Notion page's headings were accessible, but subsequent attempts to expand its sections were rate-limited. Existing employment dates, project areas, and the mentoring count were retained from the original portfolio; these were not independently reverified from the expanded Notion page. Citation counts are intentionally not hardcoded.
+
+The page distinguishes conference publications from the arXiv preprint and links to the source records. The ICPC 2021 World Finals took place in November 2022.
