@@ -25,7 +25,7 @@ git push -u origin main
 ## Customize
 
 - Update the About, Research, Experience, Projects, Achievements and Education content in `index.html`.
-- The profile picture uses your public GitHub avatar URL; replace it with an image in your repo (e.g. `assets/profile.jpg`) if desired.
+- The portrait is stored locally at `assets/portrait.jpg`. Source: [Bangladesh Competitive Programming Society](https://therealbcs.com/icpc), where it is labeled Abdullah Al Mujahid.
 - Update color palette in `styles.css` (`:root`).
 - Add verified publications, your CV PDF, and other academic links when ready.
 - Contact address currently shown: `mujahid.swadhin@gmail.com` (from the connected GitHub account).
@@ -41,6 +41,10 @@ The detailed portfolio update uses:
 - AIUB's Intra AIUB Programming Contest 2024 report for coaching and contest-hosting involvement.
 - The author's LinkedIn profile and award announcement for the continental-finals result and leadership award.
 
-The supplied public Notion page's headings were accessible, but subsequent attempts to expand its sections were rate-limited. Existing employment dates, project areas, and the mentoring count were retained from the original portfolio; these were not independently reverified from the expanded Notion page. Citation counts are intentionally not hardcoded.
+The supplied public Notion page's headings were accessible, but subsequent attempts to expand its sections were rate-limited. Existing employment dates and project areas were retained from the original portfolio; these were not independently reverified from the expanded Notion page. Citation counts are intentionally not hardcoded.
 
 The page distinguishes conference publications from the arXiv preprint and links to the source records. The ICPC 2021 World Finals took place in November 2022.
+
+## Editorial style
+
+Use short, factual sentences. Keep Research, Experience, Achievements, and Contact. Avoid slogans, team rosters, GitHub project promotion, and repeated profile links. Keep paper titles and author lists complete.
