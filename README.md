@@ -28,7 +28,7 @@ git push -u origin main
 - The portrait is stored locally at `assets/portrait.jpg`. Source: [Bangladesh Competitive Programming Society](https://therealbcs.com/icpc), where it is labeled Abdullah Al Mujahid.
 - Update color palette in `styles.css` (`:root`).
 - Add verified publications, your CV PDF, and other academic links when ready.
-- Contact address currently shown: `mujahid.swadhin@gmail.com` (from the connected GitHub account).
+- Contact address currently shown: `amgzc@mst.edu` (from the connected GitHub account).
 
 ## Content sources
 
@@ -47,4 +47,6 @@ The page distinguishes conference publications from the arXiv preprint and links
 
 ## Editorial style
 
-Use short, factual sentences. Keep Research, Experience, Achievements, and Contact. Avoid slogans, team rosters, GitHub project promotion, and repeated profile links. Keep paper titles and author lists complete.
+Use short, factual sentences. Keep Research, Experience, Competitive Programming, Service, Interests, and Contact. Use “PhD student” for academic status and “researcher” for the research role; never “PhD researcher”. Avoid slogans, team rosters, GitHub project promotion, and repeated profile links. Keep paper titles and author lists complete.
+
+The MSR 2027 Junior Program Committee role, research focus, current interests, and university email were supplied directly by the owner. Online programming profiles are shown without ratings.
