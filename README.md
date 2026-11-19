@@ -49,6 +49,6 @@ The page distinguishes conference publications from the arXiv preprint and links
 
 Use short, factual sentences. Keep Research, Experience, Competitive Programming, Service, Interests, and Contact. Use “PhD student” for academic status and “researcher” for the research role; never “PhD researcher”. Avoid slogans, team rosters, GitHub project promotion, and repeated profile links. Keep paper titles and author lists complete.
 
-The MSR 2027 Junior Program Committee role, research focus, current interests, and university email were supplied directly by the owner. Online programming profiles are shown without ratings.
+The MSR 2027 Junior Program Committee role, research focus, current interests, and university email were supplied directly by the owner. The Codeforces maximum rating is included; other online profiles are linked without ratings.
 
 Latest owner-supplied updates: the first manuscript is submitted to *Empirical Software Engineering* (EMSE), not accepted; the leadership award was received in 2023; Shift IT Solutions operated from 2016 to 2018. Mentorship is listed under Service. Only the personal email address appears in Contact.

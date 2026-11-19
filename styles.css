@@ -197,3 +197,7 @@ footer { background: #0f1c2a; color: #c7d0d9; }
 .email-label { display: block; margin-bottom: 9px; font-size: .875rem; color: #c7d0d9; }
 .service-list p + p { margin-top: 10px; }
 @media(max-width:720px) { .recognition { padding: 22px 20px; } }
+
+#research .section-heading .inline-link { margin-top: 12px; }
+.rating-note { margin: 26px 0 0; font-size: 1rem; line-height: 1.8; color: var(--muted); }
+.rating-note strong { color: var(--ink); }
