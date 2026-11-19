@@ -3,3 +3,6 @@
 .env.*
 *.pem
 *.key
+
+# Local source material; never deploy browser downloads.
+notion/

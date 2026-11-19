@@ -41,7 +41,7 @@ The detailed portfolio update uses:
 - AIUB's Intra AIUB Programming Contest 2024 report for coaching and contest-hosting involvement.
 - The author's LinkedIn profile and award announcement for the continental-finals result and leadership award.
 
-The supplied public Notion page's headings were accessible, but subsequent attempts to expand its sections were rate-limited. Existing employment dates and project areas were retained from the original portfolio; these were not independently reverified from the expanded Notion page. Citation counts are intentionally not hardcoded.
+Experience, teaching, contest results, and judging details were checked against the user's local Notion download (`notion/Abdullah Al Mujahid.html`). The download is excluded from Git and deployment. Its older “Present” labels were not used to change the existing employment end dates. The Deepchain internship is intentionally omitted at the user's request. The number-plate recognition result is reported as 20 to 60 fps, avoiding the source's incorrect percentage wording.
 
 The page distinguishes conference publications from the arXiv preprint and links to the source records. The ICPC 2021 World Finals took place in November 2022.
 

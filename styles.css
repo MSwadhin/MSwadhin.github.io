@@ -122,3 +122,18 @@ footer { background: #0f1c2a; color: #c7d0d9; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
+
+/* Editorial spacing and supporting detail. */
+.hero { padding-top: 72px; padding-bottom: 76px; }
+.section-label { font-size: 10px; letter-spacing: 2px; }
+.work-details { margin: 18px 0; padding-left: 18px; color: var(--muted); font-size: 14px; line-height: 1.85; }
+.work-details li + li { margin-top: 9px; }
+.work-details strong { color: var(--ink); font-weight: 500; }
+.timeline-main .stack { font-size: 12px; color: #506477; }
+.contest-details { display: grid; grid-template-columns: 1.1fr 1fr; gap: 64px; margin-top: 48px; padding-top: 30px; border-top: 1px solid var(--line); }
+.contest-details h3 { font-size: 20px; letter-spacing: -.5px; margin: 0 0 20px; }
+.contest-details ul { list-style: none; padding: 0; margin: 0; }
+.contest-details li { display: flex; justify-content: space-between; gap: 20px; padding: 10px 0; border-bottom: 1px solid var(--line); font-size: 13px; line-height: 1.7; color: var(--muted); }
+.contest-details li strong { color: var(--ink); font-weight: 500; white-space: nowrap; }
+.contest-details p { font-size: 14px; line-height: 1.85; color: var(--muted); margin: 0 0 15px; }
+@media(max-width:720px) { .hero { padding-top: 40px; padding-bottom: 45px; } .contest-details { grid-template-columns: 1fr; gap: 30px; } }
