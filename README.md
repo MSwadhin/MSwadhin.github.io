@@ -41,7 +41,7 @@ The detailed portfolio update uses:
 - AIUB's Intra AIUB Programming Contest 2024 report for coaching and contest-hosting involvement.
 - The author's LinkedIn profile and award announcement for the continental-finals result and leadership award.
 
-Experience, teaching, contest results, and judging details were checked against the user's local Notion download (`notion/Abdullah Al Mujahid.html`). The download is excluded from Git and deployment. Its older “Present” labels were not used to change the existing employment end dates. The Deepchain internship is intentionally omitted at the user's request. The number-plate recognition result is reported as 20 to 60 fps, avoiding the source's incorrect percentage wording.
+Experience, teaching, contest results, and judging details were checked against the user's local Notion download (`notion/Abdullah Al Mujahid.html`). The download is excluded from Git and deployment. Its older “Present” labels were not used to change the existing employment end dates. The Deepchain internship is intentionally omitted at the user's request. The number-plate recognition work is described without numerical performance claims.
 
 The page distinguishes conference publications from the arXiv preprint and links to the source records. The ICPC 2021 World Finals took place in November 2022.
 
@@ -51,4 +51,4 @@ Use short, factual sentences. Keep Research, Experience, Competitive Programming
 
 The MSR 2027 Junior Program Committee role, research focus, current interests, and university email were supplied directly by the owner. Online programming profiles are shown without ratings.
 
-Latest owner-supplied updates: the first manuscript is submitted to *Empirical Software Engineering* (EMSE), not accepted; the leadership award was received in 2023; Shift IT Solutions operated from 2016 to 2018. Mentorship is listed under Service. Both university and personal email addresses appear in Contact.
+Latest owner-supplied updates: the first manuscript is submitted to *Empirical Software Engineering* (EMSE), not accepted; the leadership award was received in 2023; Shift IT Solutions operated from 2016 to 2018. Mentorship is listed under Service. Only the personal email address appears in Contact.
