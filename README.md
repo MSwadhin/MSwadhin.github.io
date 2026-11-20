@@ -52,3 +52,7 @@ Use short, factual sentences. Keep Research, Experience, Competitive Programming
 The MSR 2027 Junior Program Committee role, research focus, current interests, and university email were supplied directly by the owner. The Codeforces maximum rating is included; other online profiles are linked without ratings.
 
 Latest owner-supplied updates: the first manuscript is submitted to *Empirical Software Engineering* (EMSE), not accepted; the leadership award was received in 2023; Shift IT Solutions operated from 2016 to 2018. Mentorship is listed under Service. Only the personal email address appears in Contact.
+
+## Presentation
+
+The site uses a featured publication, experience cards, a competitive-programming feature, and native disclosures for supporting research questions and engineering details. Navigation highlights the section in view and supports Escape to close the mobile menu. Synapse YEC and PU contest roles are Judge & Problem Setter. The face-recognition work is omitted at the owner's request. No personal ICPC profile URL was added because one could not be verified.
