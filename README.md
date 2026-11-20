@@ -25,7 +25,6 @@ git push -u origin main
 ## Customize
 
 - Update the About, Research, Experience, Projects, Achievements and Education content in `index.html`.
-- The portrait is stored locally at `assets/portrait.jpg`. Source: [Bangladesh Competitive Programming Society](https://therealbcs.com/icpc), where it is labeled Abdullah Al Mujahid.
 - Update color palette in `styles.css` (`:root`).
 - Add verified publications, your CV PDF, and other academic links when ready.
 - Contact address currently shown: `amgzc@mst.edu` (from the connected GitHub account).
@@ -47,7 +46,7 @@ The page distinguishes conference publications from the arXiv preprint and links
 
 ## Editorial style
 
-Use short, factual sentences. Keep Research, Experience, Competitive Programming, Service, Interests, and Contact. Use “PhD student” for academic status and “researcher” for the research role; never “PhD researcher”. Avoid slogans, team rosters, GitHub project promotion, and repeated profile links. Keep paper titles and author lists complete.
+Use short, factual sentences. Keep Research, Experience, Competitive Programming, Service, and Contact. Use “PhD student” for academic status and “researcher” for the research role; never “PhD researcher”. Avoid slogans, team rosters, GitHub project promotion, and repeated profile links. Keep paper titles and author lists complete.
 
 The MSR 2027 Junior Program Committee role, research focus, current interests, and university email were supplied directly by the owner. The Codeforces maximum rating is included; other online profiles are linked without ratings.
 
@@ -56,3 +55,5 @@ Latest owner-supplied updates: the first manuscript is submitted to *Empirical S
 ## Presentation
 
 The site uses a featured publication, experience cards, a competitive-programming feature, and native disclosures for supporting research questions and engineering details. Navigation highlights the section in view and supports Escape to close the mobile menu. Synapse YEC and PU contest roles are Judge & Problem Setter. The face-recognition work is omitted at the owner's request. No personal ICPC profile URL was added because one could not be verified.
+
+The portrait and personal interests section were removed at the owner’s request.
